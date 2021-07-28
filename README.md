@@ -1,4 +1,4 @@
-![Logo](sfs_logo.jpg)
+![Logo](sfs_logo.png)
 
 # All Hands on Deck
 
