@@ -1,4 +1,4 @@
-![Logo](sfs_logo.png)
+
 <img align="left" src="sfs_logo.png" alt="none" width="100" height="100" />
 <h1 align="center">All Hands on Deck</h1>
 
